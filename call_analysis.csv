@@ -1,2 +1,3 @@
 "Timestamp","Transcript","Summary","Sentiment"
 "2025-09-16 21:41:23","Hi, I was trying to book a slot yesterday but the payment failed.","The user attempted to book a slot yesterday but encountered a payment failure. They are likely looking for help to resolve the issue and complete their booking.","negative"
+"2025-09-16 22:44:51","payment issue","The conversation centers on a payment issue, with the user reporting difficulties or errors related to a transaction. They are likely seeking help to resolve the problem, such as confirming the payment status, correcting a mistake, or troubleshooting any related technical glitches. The assistant should provide clear, step‑by‑step guidance to address the payment concern.","negative"
