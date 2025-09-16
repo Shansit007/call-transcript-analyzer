@@ -1,0 +1,5 @@
+Transcript,Summary,Sentiment
+"Hi, I was trying to book a slot yesterday but the payment failed.
+",The user attempted to book a slot yesterday but encountered a payment failure. They are likely seeking help to resolve the payment issue or to complete the booking.,negative
+"Hi, I was trying to book a slot yesterday but the payment failed.","The user reached out because they tried to book a slot yesterday but encountered a payment failure. They are seeking assistance or clarification regarding the unsuccessful transaction. No additional context or instructions were provided in the conversation.","Negative"
+"2025-09-16 20:23:26","Hi, I was trying to book a slot yesterday but the payment failed.","The user attempted to book a slot yesterday but encountered a payment failure, preventing the reservation from completing. They’re likely seeking assistance or a solution to resolve the payment issue.","negative"
